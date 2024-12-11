@@ -1,2 +1,2 @@
 # OTOD
-Optimal Transport-based OOD Detection
+Coming soon...
