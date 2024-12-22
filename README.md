@@ -5,7 +5,7 @@
 
 ### Data Preparation
 
-Our codebase accesses the datasets from `./data/` and pretrained models from `./results/checkpoints/` .
+Our codebase accesses the datasets from `./data/`.
 
 ```
 ├── ...
