@@ -3,7 +3,26 @@
 > Heng Gao, Zhuolin He, Jian Pu*  
 > Fudan University
 
-#### Usage
+### Data Preparation
+
+Our codebase accesses the datasets from `./data/` and pretrained models from `./results/checkpoints/` .
+
+```
+├── ...
+├── data
+│   ├── benchmark_imglist
+│   ├── images_classic
+│   └── images_largescale
+├── openood
+├── results
+│   ├── checkpoints
+│   └── ...
+├── scripts
+├── main.py
+├── ...
+```
+
+### Usage
 
 ```sh
 # CIFAR-100
