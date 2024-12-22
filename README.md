@@ -1,3 +1,5 @@
+# Detecting OOD Samples via Optimal Transport Scoring Function
+
 #### Usage
 
 ```sh
