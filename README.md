@@ -3,7 +3,7 @@
 > Heng Gao, Zhuolin He, Jian Pu*  
 > Fudan University
 
-Before using our code, please first install the [OpenOOD](https://github.com/Jingkang50/OpenOOD)
+Before using our code, please first install the [OpenOOD](https://github.com/Jingkang50/OpenOOD).
 
 ### Data Preparation
 
