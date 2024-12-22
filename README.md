@@ -3,6 +3,8 @@
 > Heng Gao, Zhuolin He, Jian Pu*  
 > Fudan University
 
+Please first install the [OpenOOD](https://github.com/Jingkang50/OpenOOD)
+
 ### Data Preparation
 
 Our codebase accesses the datasets from `./data/`.
