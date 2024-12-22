@@ -1,0 +1,7 @@
+network:
+  name: wrn
+  num_classes: '@{dataset.num_classes}'
+  image_size: '@{dataset.image_size}'
+  pretrained: True          # set 'True' to load pretrained model
+  checkpoint: ./results/cifar100_wrn_base_e100_lr0.1_default/s0/best.ckpt            # ignore if pretrained is false
+  num_gpus: '@{num_gpus}'
