@@ -1,6 +1,6 @@
 # Detecting OOD Samples via Optimal Transport Scoring Function
 
-> Heng Gao, Zhuolin He, Jian Pu*
+> Heng Gao, Zhuolin He, Jian Pu*  
 > Fudan University
 
 #### Usage
