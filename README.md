@@ -12,7 +12,6 @@ Our codebase accesses the datasets from `./data/` and pretrained models from `./
 ├── data
 │   ├── benchmark_imglist
 │   ├── images_classic
-│   └── images_largescale
 ├── openood
 ├── results
 │   ├── checkpoints
