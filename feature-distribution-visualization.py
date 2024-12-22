@@ -3,11 +3,7 @@ import umap
 import matplotlib.pyplot as plt
 
 labels = np.load('./wrn-28-id-label-list-cifar10-for-empirical-validation-w-unitization-check-8-31.npy')
-# labels = np.load('./wrn-28-id-label-list-cifar10-for-empirical-validation-wo-unitization-check-8-31.npy')
 feat = np.load('./wrn-28-id-feat-list-cifar10-for-empirical-validation-w-unitization-check-8-31.npy')
-# logits = np.load('./wrn-28-id-logits-list-cifar10-for-empirical-validation-w-unitization-8-31.npy')
-# softmax = np.load('./wrn-28-id-softmax-list-cifar10-for-empirical-validation-w-unitization-8-31.npy')
-# disunit_feat = np.load('./wrn-28-id-feat-list-cifar10-for-empirical-validation-wo-unitization-check-8-31.npy')
 umap_reducer = umap.UMAP(n_neighbors=15, min_dist=0.1, n_components=2, random_state=42)
 umap_embedding = umap_reducer.fit_transform(feat)
 
