@@ -3,7 +3,7 @@
 > Heng Gao, Zhuolin He, Jian Pu*  
 > Fudan University
 
-Before using our code, please first install the [OpenOOD](https://github.com/Jingkang50/OpenOOD).
+Before using our code, please first install the [OpenOOD](https://github.com/Jingkang50/OpenOOD). Besides, the pre-trained models are available [here](https://drive.google.com/drive/folders/1XSVB8pyYWuMVpq7BTuIESfU8GvCumxOn?usp=sharing).
 
 ### Data Preparation
 
