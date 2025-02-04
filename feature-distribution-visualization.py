@@ -14,4 +14,4 @@ scatter = plt.scatter(umap_embedding[:, 0], umap_embedding[:, 1], c=labels, cmap
 unique_labels = np.unique(labels)
 plt.legend(handles=[plt.Line2D([0], [0], marker='o', color='w', label=label, markersize=14, markerfacecolor=c) for label, c in zip(unique_labels, scatter.cmap(scatter.norm(unique_labels)))], title='Classes', loc='upper left')
 
-plt.savefig('./wrn-28-cifar10-w-unit-feat-distribution-umap-8-31.png', dpi=700)
+plt.savefig('./wrn-28-cifar10-w-unit-feature-distribution-umap-8-31.png', dpi=700)
