@@ -31,3 +31,17 @@ bash scripts/ood/otd/cifar100_test_ood_otod.sh
 # CIFAR-10
 bash scripts/ood/otd/cifar10_test_ood_otod.sh
 ```
+
+## Citation
+If you find **OTOD** useful in your research, please consider citing:
+```
+@misc{gao2024oalenhancingooddetection,
+      title={Detecting OOD Samples via Optimal Transport Scoring Function}, 
+      author={Heng Gao and Zhuolin He and Jian Pu},
+      year={2025},
+      eprint={2502.16115},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2502.16115}, 
+}
+```
