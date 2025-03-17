@@ -40,10 +40,14 @@ bash scripts/ood/otd/cifar10_test_ood_otod.sh
 ## Citation
 If you find **OTOD** useful in your research, please consider citing:
 ```
-@article{gao2025detecting,
-  title={Detecting OOD Samples via Optimal Transport Scoring Function},
+@INPROCEEDINGS{10890502,
   author={Gao, Heng and He, Zhuolin and Pu, Jian},
-  journal={arXiv preprint arXiv:2502.16115},
-  year={2025}
-}
+  booktitle={ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={Detecting OOD Samples via Optimal Transport Scoring Function}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-5},
+  keywords={Training;Machine learning;Predictive models;Benchmark testing;Signal processing;Probability;Feature extraction;Safety;Speech processing;Detection algorithms;Out-of-distribution detection;Wasserstein distances;Deep neural networks;Machine learning safety},
+  doi={10.1109/ICASSP49660.2025.10890502}}
 ```
