@@ -32,6 +32,11 @@ bash scripts/ood/otd/cifar100_test_ood_otod.sh
 bash scripts/ood/otd/cifar10_test_ood_otod.sh
 ```
 
+### Benchmark Results
+![image](cifar10.png)  
+
+![image](cifar100.png)  
+
 ## Citation
 If you find **OTOD** useful in your research, please consider citing:
 ```
